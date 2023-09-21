@@ -24,7 +24,7 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "backgroundColor": "rgba(151, 218, 236, 0.4)",
+            "backgroundColor": "rgba(236, 151, 151, 0.48)",
             "borderRadius": 20
         },
         "ShowStatusBar": true,
@@ -39,7 +39,7 @@
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
         "isSimple": true,
-        "BackgroundColor": "rgba(151, 218, 236, 0.4)"
+        "BackgroundColor": "rgba(236, 151, 151, 0.48)"
     },
     "children": [
         {
